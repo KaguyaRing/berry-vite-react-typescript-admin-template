@@ -15,32 +15,6 @@
 
 本项目是基于 [Berry Free React Admin Template](https://github.com/codedthemes/berry-free-react-admin-template) 的 TypeScript 迁移版本。项目从原始的 JavaScript 版本迁移而来，类型系统已基本完善。
 
-### 迁移状态：✨ 类型系统已基本完善
-
-**已完成：**
-- ✅ 所有 `.js` 文件转换为 `.ts` / `.tsx`
-- ✅ 核心组件 TypeScript 类型定义（MainCard、ThemeCustomization、SubCard、Transitions 等）
-- ✅ 全局类型声明完善（图片、CSS、字体等）
-- ✅ 路径别名配置
-- ✅ TypeScript 配置优化
-- ✅ Context 和 Hooks 类型定义
-- ✅ Material UI Theme 类型扩展（customShadows、Typography variants）
-- ✅ 菜单项类型定义（MenuItem、MenuGroupProps、NavCollapseProps 等）
-
-**待完善（剩余约 60+ 类型错误）：**
-- ⏳ 其他 UI 组件 Props 类型定义
-- ⏳ ApexCharts 配置类型定义
-- ⏳ 部分组件 Props 移除 PropTypes
-- ⏳ 完善类型检查和启用严格模式
-
-**TypeScript 类型文件：**
-- [`src/global.d.ts`](src/global.d.ts:1) - 全局类型声明
-- [`src/menu-items/types.ts`](src/menu-items/types.ts:1) - 菜单项类型定义
-- [`src/ui-component/cards/MainCard.tsx`](src/ui-component/cards/MainCard.tsx:13) - MainCard Props
-- [`src/themes/index.tsx`](src/themes/index.tsx:9) - Theme 类型扩展
-
-项目采用现代化技术栈构建，提供了一套完整的企业级管理后台解决方案，具有响应式设计、深色/浅色主题、模块化代码结构等特点。
-
 ## 功能特性
 
 - ✨ 现代化 UI 设计，基于 Material UI v7
