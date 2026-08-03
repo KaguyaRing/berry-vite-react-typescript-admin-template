@@ -491,10 +491,10 @@ pnpm install @types/react @types/react-dom
 
 ## 作者
 
-**CoreRing**
+**KaguyaRing**
 
-- GitHub: [CoreRing](https://github.com/CoreRing)
-- 仓库: [berry-vite-react-typescript-admin-template](https://github.com/CoreRing/berry-vite-react-typescript-admin-template)
+- GitHub: [KaguyaRing](https://github.com/KaguyaRing)
+- 仓库: [berry-vite-react-typescript-admin-template](https://github.com/KaguyaRing/berry-vite-react-typescript-admin-template)
 
 ## 致谢
 
