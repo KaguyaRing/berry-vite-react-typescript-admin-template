@@ -491,10 +491,10 @@ pnpm install @types/react @types/react-dom
 
 ## 作者
 
-**ChuranNeko**
+**CoreRing**
 
-- GitHub: [ChuranNeko](https://github.com/ChuranNeko)
-- 仓库: [berry-vite-react-typescript-admin-template](https://github.com/ChuranNeko/berry-vite-react-typescript-admin-template)
+- GitHub: [CoreRing](https://github.com/CoreRing)
+- 仓库: [berry-vite-react-typescript-admin-template](https://github.com/CoreRing/berry-vite-react-typescript-admin-template)
 
 ## 致谢
 
